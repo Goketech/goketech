@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/modupe-akanni-236377235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Modupe Akanni" height="30" width="40" /></a>
 <a href="https://www.instagram.com/adegoke_akanni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adegoke_akanni" height="30" width="40" /></a>
-<a href="https://twitter.com/aka_goke"><img alt="goke twitter" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" /></a>
+<a href="https://twitter.com/aka_goke"><img alt="goke twitter" width="40" height="40" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" /></a>
 
 ## 💻 Languages, Frameworks, and Tools:
 
