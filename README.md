@@ -2,29 +2,23 @@
 ### A passionate software engineer from Nigeria
  -->
 <h1 align="center">Hi 👋,<br>I'm Modupe Akanni</h1>
-<!--
-**Goketech/goketech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+
 <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
 <h6 align="center">I am Modupe Akanni, a passionate Software Engineer and Computer Science student at Kibo School in New York, NY. I have a strong love for coding, problem-solving, and innovation. My expertise lies in Python and web development, where I enjoy creating elegant and efficient solutions. With a solid background in computer science, my goal is to develop meaningful software that empowers users and has a positive impact. I am constantly pushing the boundaries of what is achievable in the dynamic field of software engineering.</h6>
 
-
-<!-- - 🔭 I’m currently 
-- 🌱 I’m currently learning data structures and algorithms and web development... -->
 - 👯 I'm on a mission to find exciting software engineering internships.
 - 📫 How to reach me: **modupe.akanni@kibo.school**
 - 🚀 Connect with me: [Portfolio](https://modupeakanni.tech/)
+
+<!-- - 🔭 I’m currently 
+- 🌱 I’m currently learning data structures and algorithms and web development... -->
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<br>
 <br>
 <br>
 <br>
@@ -38,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<br>
+
 
 ## 💻 Languages, Frameworks, and Tools:
 
@@ -47,8 +41,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
-<br>
+
 
 ### Stats
 <a href="http://github.com/goketech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=goketech&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
