@@ -7,7 +7,9 @@
 
 Here are some ideas to get you started:
 -->
-<p align="center">I am Modupe Akanni, a passionate Software Engineer and Computer Science student at Kibo School in New York, NY. I have a strong love for coding, problem-solving, and innovation. My expertise lies in Python and web development, where I enjoy creating elegant and efficient solutions. With a solid background in computer science, my goal is to develop meaningful software that empowers users and has a positive impact. I am constantly pushing the boundaries of what is achievable in the dynamic field of software engineering.</p>
+<img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
+
+<h6 align="center">I am Modupe Akanni, a passionate Software Engineer and Computer Science student at Kibo School in New York, NY. I have a strong love for coding, problem-solving, and innovation. My expertise lies in Python and web development, where I enjoy creating elegant and efficient solutions. With a solid background in computer science, my goal is to develop meaningful software that empowers users and has a positive impact. I am constantly pushing the boundaries of what is achievable in the dynamic field of software engineering.</h6>
 
 
 <!-- - 🔭 I’m currently 
@@ -21,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
 <br>
 <br>
