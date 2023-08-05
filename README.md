@@ -10,7 +10,7 @@
 
 <!-- 👯 I'm on a mission to find exciting software engineering internships. -->
 - 📫 How to reach me: **modupe.akanni@kibo.school**
-- 🚀 Connect with me: [Portfolio](https://www.linkedin.com/in/modupe-akanni/)
+- 🚀 Connect with me: [Linkedln](https://www.linkedin.com/in/modupe-akanni/)
 
 <!-- - 🔭 I’m currently 
 - 🌱 I’m currently learning data structures and algorithms and web development... -->
