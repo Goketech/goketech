@@ -6,10 +6,10 @@
 
 <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
-<p align="left">I am Modupe Akanni, a passionate Software Engineer and Computer Science student at Kibo School in New York, NY. I have a strong love for coding, problem-solving, and innovation. My expertise lies in Python and web development, where I enjoy creating elegant and efficient solutions. With a solid background in computer science, my goal is to develop meaningful software that empowers users and has a positive impact. I am constantly pushing the boundaries of what is achievable in the dynamic field of software engineering.</p>
+<p align="left">I am Modupe Akanni, passionate Software Engineer. I have a strong love for coding, problem-solving, and innovation. My expertise lies in Python and web development, where I enjoy creating elegant and efficient solutions. With a solid background in computer science, my goal is to develop meaningful software that empowers users and has a positive impact. I am constantly pushing the boundaries of what is achievable in the dynamic field of software engineering.</p>
 
 <!-- 👯 I'm on a mission to find exciting software engineering internships. -->
-- 📫 How to reach me: **modupe.akanni@kibo.school**
+- 📫 How to reach me: **modupe775@gmail.com**
 - 🚀 Connect with me: [Linkedln](https://www.linkedin.com/in/modupe-akanni/)
 
 <!-- - 🔭 I’m currently 
@@ -27,7 +27,7 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/modupe-akanni-236377235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Modupe Akanni" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/modupe-akanni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Modupe Akanni" height="30" width="40" /></a>
 <a href="https://www.instagram.com/adegoke_akanni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adegoke_akanni" height="30" width="40" /></a>
 <a href="https://twitter.com/aka_goke" target="blank"><img align="center" alt="goke twitter" width="40" height="40" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" /></a>
 
