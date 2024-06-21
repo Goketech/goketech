@@ -6,15 +6,13 @@
 
 <img align="right" alt="master_coder" width="360" src="https://i.imgur.com/4SdB78W.gif">
 
-<p align="left">I am Modupe Akanni, passionate Software Engineer. I have a strong love for coding, problem-solving, and innovation. My expertise lies in Python and web development, where I enjoy creating elegant and efficient solutions. With a solid background in computer science, my goal is to develop meaningful software that empowers users and has a positive impact. I am constantly pushing the boundaries of what is achievable in the dynamic field of software engineering.</p>
-
+<!-- <p align="left">I am Modupe Akanni, passionate Software Engineer. I have a strong love for coding, problem-solving, and innovation. My expertise lies in Python and web development, where I enjoy creating elegant and efficient solutions. With a solid background in computer science, my goal is to develop meaningful software that empowers users and has a positive impact. I am constantly pushing the boundaries of what is achievable in the dynamic field of software engineering.</p>
+-->
 <!-- 👯 I'm on a mission to find exciting software engineering internships. -->
 - 📫 How to reach me: **modupe775@gmail.com**
 - 🚀 Connect with me: [Linkedln](https://www.linkedin.com/in/modupe-akanni/)
-
-<!-- - 🔭 I’m currently 
-- 🌱 I’m currently learning data structures and algorithms and web development... -->
-<!--- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning AI and LLMs
+<!--
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
