@@ -3,11 +3,11 @@
 - 🎓 &nbsp; Studied Computer Science.
 - ⭐ &nbsp; Software Engineer.
 - 🤔 &nbsp; Exploring new technologies and experimenting with various tools and hacks.
-<!-- - 💼 I’m currently working at IQ.wiki -->
 - 🌱 I’m currently learning **Machine Learning**, **Large Language Models**
 - 💬 Ask me about **React, Nextjs, Web development, Python**
 - 📫 How to reach me **modupe775@gmail.com**
 - 👨‍💻 My Personal Portfolio : **[https://iamgoke.vercel.app/](https://iamgoke.vercel.app/)**
+- <!-- - 💼 I’m currently working at IQ.wiki -->
 
 ### Connect with me:
 <p align="left">
