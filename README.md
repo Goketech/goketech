@@ -1,4 +1,4 @@
-# Hello !  I am Modupe 👋
+# Hello!  I am Modupe 👋
 
 - 🎓 &nbsp; Studied Computer Science.
 - ⭐ &nbsp; Software Engineer.
