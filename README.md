@@ -18,3 +18,6 @@
 ### Languages and Tools i Use
 
 ![](https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,figma,html,css,tailwind,mongodb,postgres,py,wordpress,nodejs,vscode,netlify,vercel,heroku,express,graphql,github,git,firebase,discord,prisma,linux,supabase,npm,docker,githubactions)
+
+### Stats
+<a href="http://github.com/goketech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=goketech&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
