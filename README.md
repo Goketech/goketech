@@ -7,7 +7,7 @@
 - 💬 Ask me about **React, Nextjs, Web development, Python**
 - 📫 How to reach me **modupe775@gmail.com**
 - 👨‍💻 My Personal Portfolio : **[https://iamgoke.vercel.app/](https://iamgoke.vercel.app/)**
-- <!-- - 💼 I’m currently working at IQ.wiki -->
+<!-- - 💼 I’m currently working at IQ.wiki -->
 
 ### Connect with me:
 <p align="left">
